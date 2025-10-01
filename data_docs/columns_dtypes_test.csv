@@ -1,0 +1,11 @@
+,dtype,split
+id,int64,test
+RhythmScore,float64,test
+AudioLoudness,float64,test
+VocalContent,float64,test
+AcousticQuality,float64,test
+InstrumentalScore,float64,test
+LivePerformanceLikelihood,float64,test
+MoodScore,float64,test
+TrackDurationMs,float64,test
+Energy,float64,test

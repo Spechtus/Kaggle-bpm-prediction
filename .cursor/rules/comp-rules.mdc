@@ -1,0 +1,20 @@
+---
+description: the rule is helpful for understanding the goal of the competition with also explaining the train and test data
+alwaysApply: false
+---
+# Overview
+
+Welcome to the 2025 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting and approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
+
+Your Goal: The goal of this competition is to predict a song's beats-per-minute.
+
+Submissions are evaluated using the Root Mean Squared Error between the predicted and the observed target.
+Submission File
+
+For each id in the test set, you must predict a continuous-valued BeatsPerMinute. The file should contain a header and have the following format:
+
+id,BeatsPerMinute
+524164,119.5
+524165,127.42
+524166,111.11
+etc.
